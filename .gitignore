@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+/AAPL_Call.csv
+/Data/
+/scaler_*.joblib
